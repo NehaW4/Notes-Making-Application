@@ -1,6 +1,15 @@
 # Notes-Making-Application
 
-The main objective of the note’s making app is to create their own notes and perform some DML operation on it.
+The main objective of the note’s making app is to create their own notes and perform some DML operation on it. This is an application that helps you create, edit, update, and delete notes. It's like having a digital notebook where you can jot down your thoughts, ideas, or important information.
+
+1. **Technologies used**: The application is built using ReactJs, which is a popular JavaScript library for building user interfaces. HTML and CSS are used for structuring and styling the content respectively.
+
+2. **Features**:
+   - **Create, Edit, Update, and Delete**: You can create new notes, edit existing ones, update them with new information, and delete notes you no longer need. This makes it easy to keep your notes organized and up-to-date.
+   - **Emoji Option**: Besides just text, the app also lets you add emojis to your notes. This allows you to express your emotions or add a bit of fun to your notes beyond just writing.
+
+3. **User Experience**: The app is designed to provide a seamless experience for users to manage and organize their notes. Whether you're adding new notes, making changes, or deleting old ones, the interface is intuitive and easy to use.
+
 
 # Getting Started with Create React App
 

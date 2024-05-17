@@ -10,8 +10,11 @@ The main objective of the note’s making app is to create their own notes and p
 
 3. **User Experience**: The app is designed to provide a seamless experience for users to manage and organize their notes. Whether you're adding new notes, making changes, or deleting old ones, the interface is intuitive and easy to use.
 
-**Image**
-<img width="404" alt="Notes making application" src="https://github.com/NehaW4/Notes-Making-Application/assets/92804162/72686c15-1bff-4e86-a347-c7b7460a1ef1">
+
+4. **Image** :
+   
+
+<img width="500" alt="Notes making application" src="https://github.com/NehaW4/Notes-Making-Application/assets/92804162/72686c15-1bff-4e86-a347-c7b7460a1ef1">
 
 
 # Getting Started with Create React App

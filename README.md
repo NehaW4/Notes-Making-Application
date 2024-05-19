@@ -2,6 +2,10 @@
 
 The main objective of the note’s making app is to create their own notes and perform some DML operation on it. This is an application that helps you create, edit, update, and delete notes. It's like having a digital notebook where you can jot down your thoughts, ideas, or important information.
 
+
+<img width="500" alt="Notes making application" src="https://github.com/NehaW4/Notes-Making-Application/assets/92804162/72686c15-1bff-4e86-a347-c7b7460a1ef1">
+
+
 1. **Technologies used**: The application is built using ReactJs, which is a popular JavaScript library for building user interfaces. HTML and CSS are used for structuring and styling the content respectively.
 
 2. **Features**:
@@ -13,10 +17,6 @@ The main objective of the note’s making app is to create their own notes and p
 
 4. **Image** :
    
-
-<img width="500" alt="Notes making application" src="https://github.com/NehaW4/Notes-Making-Application/assets/92804162/72686c15-1bff-4e86-a347-c7b7460a1ef1">
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
